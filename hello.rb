@@ -1,4 +1,4 @@
-# new commentin hello.rb from branch nwbr2then committed.
+# new comment
 # Default is "world"
 
 name = ARGV.first || "World"
