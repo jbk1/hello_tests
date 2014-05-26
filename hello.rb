@@ -1,4 +1,4 @@
-# new comment on 2br during rebase testing.
+# new comment
 # Default is "world"
 
 name = ARGV.first || "World"
